@@ -22,7 +22,7 @@ Here are a few Computer Vision projects I'm proud of:
 - [Benetech - Making Graphs Accessible](https://github.com/YourUsername/Project1): Extract data represented by charts commonly found in STEM textbooks & create tabular data from graphs.
 - [BirdCLEF - 2023](https://github.com/YourUsername/Project2): Process continuous audio data and identify Eastern African bird species by sound.
 
-🔎 To check out all my projects, please visit [My Repository](https://github.com/Billa-Man).
+🔎 To check out all my projects, please visit [My Repository](https://github.com/Billa-Man?tab=repositories).
 
 
 ## 💻 Languages and Tools:
