@@ -36,4 +36,6 @@ Feel free to reach out and discuss the world of Computer Vision with me. Thanks 
 
 ---
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Billa-Man?theme=dark)
+
 [![](https://visitcount.itsvg.in/api?id=Billa-Man&icon=5&color=0)](https://visitcount.itsvg.in)
