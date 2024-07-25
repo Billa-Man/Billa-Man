@@ -33,9 +33,3 @@ Let's talk about Computer Vision! You can find me on the following platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_sohith) 
 
 Feel free to reach out and discuss the world of Computer Vision with me. Thanks for visiting my GitHub profile! 🤖
-
----
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Billa-Man?theme=dark)
-
-[![](https://visitcount.itsvg.in/api?id=Billa-Man&icon=5&color=0)](https://visitcount.itsvg.in)
