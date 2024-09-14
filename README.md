@@ -1,19 +1,9 @@
 # 🙋‍♂️ Hi there, I'm Sohith Bandari!
 
-I'm a Computer Vision enthusiast from IIT-ISM Dhanbad with a passion for teaching machines to see and understand the world.
+I'm a Computer Vision enthusiast from New York University with a passion for teaching machines to see and understand the world.
 
 ## 💫 About Me:
-🌱 I'm currently exploring the latest advancements in Computer Vision.<br>💼 I'm currently working on Google's Image Matching Challenge 2023 on Kaggle.<br>🚀 I'm eager to collaborate on open-source Computer Vision projects.<br>📫 You can reach me at [my email](mailto:sohith.bandari@gmail.com).
-
-## 👁️ Computer Vision Specializations
-
-I specialize in various aspects of Computer Vision, including:
-
-- Object Detection 🎯
-- Image Classification 📸
-- Image Segmentation 🌌
-- Facial Recognition 👤
-- Medical Image Analysis ⚕️
+🌱 I'm currently exploring the latest advancements in Computer Vision.<br>💼 I'm currently working on BirdCLEF 2024 on Kaggle.<br>🚀 I'm eager to collaborate on open-source Computer Vision projects.<br>📫 You can reach me at [my email](mailto:sohith.bandari@gmail.com).
 
 ## 💻 Languages and Tools:
 
