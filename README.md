@@ -23,3 +23,5 @@ Let's talk about Computer Vision! You can find me on the following platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_sohith) 
 
 Feel free to reach out and discuss the world of Computer Vision with me. Thanks for visiting my GitHub profile! 🤖
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billa-Man&layout=compact)
