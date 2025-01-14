@@ -1,9 +1,17 @@
 # 🙋‍♂️ Hi there, I'm Sohith Bandari!
 
-I'm a Computer Vision enthusiast from New York University with a passion for teaching machines to see and understand the world.
+I'm an LLM enthusiast from New York University, fascinated by the power of Large Language Models to transform AI-human interaction and eager to unravel how AI can master the complexities of human communication.
 
 ## 💫 About Me:
-🌱 I'm currently exploring the latest advancements in Computer Vision.<br>💼 I'm currently working on BirdCLEF 2024 on Kaggle.<br>🚀 I'm eager to collaborate on open-source Computer Vision projects.<br>📫 You can reach me at [my email](mailto:sohith.bandari@gmail.com).
+- You can find me as <strong>"billa-man"</strong> across various platforms.
+- I'm currently exploring the latest advancements in multi-modal AI models and applications.
+- I'm currently working on a chatbot for the game "20 Questions".
+- I'm eager to collaborate on open-source LLM & LVM projects.
+- You can reach me at [my email](mailto:sohith.bandari@gmail.com).
+
+## 🤖 Some of my Key Projects
+- ![Prompt2Program](https://github.com/Billa-Man/prompt2program): An end-to-end RAG system for C++ code generation.
+- ![LLM Prompt Recovery](https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery): Recover the LLM prompt that was used to transform a given text.
 
 ## 💻 Languages and Tools:
 
