@@ -10,8 +10,8 @@ I'm an LLM enthusiast from New York University, fascinated by the power of Large
 - You can reach me at [my email](mailto:sohith.bandari@gmail.com).
 
 ## 🤖 Some of my Key Projects
-- ![Prompt2Program](https://github.com/Billa-Man/prompt2program): An end-to-end RAG system for C++ code generation.
-- ![LLM Prompt Recovery](https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery): Recover the LLM prompt that was used to transform a given text.
+- [Prompt2Program](https://github.com/Billa-Man/prompt2program): An end-to-end RAG system for C++ code generation.
+- [LLM Prompt Recovery](https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery): Recover the LLM prompt that was used to transform a given text.
 
 ## 💻 Languages and Tools:
 
