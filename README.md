@@ -5,7 +5,7 @@ I'm an LLM enthusiast from New York University, fascinated by the power of Large
 ## 💫 About Me:
 - You can find me as <strong>"billa-man"</strong> across various platforms.
 - I'm currently exploring the latest advancements in multi-modal AI models and applications.
-- I'm currently working on a chatbot for the game "20 Questions".
+- I'm currently working on a [chatbot](https://github.com/Billa-Man/git-issue-hound) to search and retrieve relevant github issues to the user.
 - I'm eager to collaborate on open-source LLM & LVM projects.
 - You can reach me at [my email](mailto:sohith.bandari@gmail.com).
 
