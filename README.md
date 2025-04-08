@@ -33,3 +33,5 @@ Let's talk about Computer Vision! You can find me on the following platforms:
 Feel free to reach out and discuss the world of Computer Vision with me. Thanks for visiting my GitHub profile! 🤖
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billa-Man&layout=compact&theme=tokyonight)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billa-Man&show_icons=true&theme=dark)
