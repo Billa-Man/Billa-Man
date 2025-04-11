@@ -17,7 +17,7 @@
 
 ## 💻 Languages and Tools:
 
-Here are some of the technologies and tools I commonly use in my Computer Vision projects:
+Here are some of the technologies and tools I commonly use in my projects:
 
 -  Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 -  Frameworks: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-FF6F00?style=flat&logo=jax&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -26,13 +26,9 @@ Here are some of the technologies and tools I commonly use in my Computer Vision
 
 ## 🌐 Let's Connect
 
-Let's talk about Computer Vision! You can find me on the following platforms:
+You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohithbandari)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohithbandari) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/b_sohith)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b_sohith) 
-
-Feel free to reach out and discuss the world of Computer Vision with me. Thanks for visiting my GitHub profile! 🤖
+Feel free to reach out to me. Thanks for visiting my GitHub profile! 🤖
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billa-Man&layout=compact&theme=tokyonight)
 
