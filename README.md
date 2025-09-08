@@ -1,35 +1,52 @@
-# 🙋‍♂️ Hi there, I'm Sohith Bandari!
+# 🙋‍♂️ Hi, I'm Sohith Bandari  
 
-## 💫 About Me:
-- You can find me as <strong>"billa-man"</strong> across various platforms.
-- I'm eager to collaborate on open-source LLM & LVM projects.
-- You can reach me at [my email](mailto:sohith.bandari@gmail.com).
+🎓 MSCS @ NYU (GPA: 3.9) | 💻 ML/AI Engineer | ⚡ End-to-end ML pipelines, LLM apps, and MLOps systems  
+I go by **"billa-man"** across platforms and I’m always looking to collaborate on **LLMs, LVMs, and applied AI projects**.  
 
-## Coursework Projects that I am currently working on
-- <strong>MLOps:</strong> An AI-assisted chest X-ray abnormality detection system using YOLOv11-L and the VinDr-CXR dataset while utilizing core MLOps principles.
-- <strong>Software Engineering:</strong> A cybersecurity awareness platform that strengthens organizational defenses against phishing and smishing attacks through simulated scenarios, real-time monitoring, and interactive employee training modules. Based on Agile methodologies and other SWE principles.
+📬 Reach me: [sohith.bandari@gmail.com](mailto:sohith.bandari@gmail.com) | [LinkedIn](https://linkedin.com/in/sohithbandari) | [Portfolio](https://billa-man.github.io/)  
 
-## 🤖 Some of my Key Projects
-- [soothify](https://github.com/Billa-Man/soothify): A voice-based AI companion that support you through natural voice chats. 
-- [git-issue-hound](https://github.com/Billa-Man/git-issue-bot): A chatbot that sniffs out relevant issues and repositories.
-- [Prompt2Program](https://github.com/Billa-Man/prompt2program): An end-to-end RAG system for C++ code generation.
-- [LLM Prompt Recovery](https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery): Recover the LLM prompt that was used to transform a given text.
+---
 
-## 💻 Languages and Tools:
+## 🔑 Quick Snapshot
+- 3+ years experience across **ML/AI (vision + NLP), SWE, and MLOps**
+- Hands-on with **infrastructure automation (Terraform, Ansible, Ray, MLflow, Docker, AWS)**
+- Strong SWE foundation: Agile, REST APIs, scalable web apps
+- Published in **The Astronomical Journal (IF 5.1)** on exoplanet detection
 
-Here are some of the technologies and tools I commonly use in my projects:
+---
 
--  Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
--  Frameworks: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-FF6F00?style=flat&logo=jax&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-- Libraries: ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Haystack](https://img.shields.io/badge/Haystack-0081CB?style=flat&logo=haystack&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-F1C40F?style=flat&logo=gradio&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-0095D5?style=flat&logo=optuna&logoColor=white)
-- Tools & Technologies: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64.svg?style=flat&logo=qdrant&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+## 🔥 Highlights
+- 🩺 **Chest X-ray Detection (MLOps):** Reduced infra setup by **80%** with Terraform + Ansible, cut training time by **65%** on 4-GPU clusters, and deployed YOLO-12X achieving **0.52 mAP@50** with sub-10ms inference latency. 
+- 🛡 **PhishLearn (Cybersecurity SWE):** Django platform simulating phishing campaigns with Supabase + Dockerized backend; delivered CI/CD on AWS with automated testing.  
+- 🤖 **End-to-End LLM RAG Pipeline:** Ingested **10K+ repos** with ETL pipelines (Python + ClearML → MongoDB/Qdrant), fine-tuned LLaMA-3.2 3B (LoRA SFT+DPO, **27K+ samples**) for robotics QA, and deployed inference on AWS SageMaker.  
+- 🎙 **Soothify:** AI wellness companion combining OpenAI + Hume.AI for real-time voice/text; validated with **50×60-day synthetic cohort** and modular user journeys.  
+- 📊 **Recommender System (Finance):** Built multi-objective recommender predicting clicks/cart/purchases using XGBoost + Dask; tuned top-20 accuracy with temporal patterns. 
+- 💳 **Credit Risk Prediction:** Developed ensemble (XGBoost, CatBoost, LightGBM) with Optuna; achieved **0.8045 rank-ordering score** on test defaults.  
 
-## 🌐 Let's Connect
+---
 
-You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohithbandari)
+## 🧠 Research
+- **Exoplanet Classification through Vision Transformers with Temporal Analysis** – *The Astronomical Journal*, IF 5.1 (2025).  
+- **Thesis (IIT-ISM, 2024):** Prediction of Per-Packet Delay in SDNs using Graph Convolutional Networks.
 
-Feel free to reach out to me. Thanks for visiting my GitHub profile! 🤖
+---
 
+## 💻 Tech Stack  
+
+**Programming:** Python, Java, SQL, C++, MATLAB  
+**ML/AI Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers
+**Libraries:** NumPy, Pandas, scikit-learn, LangChain, OpenAI SDK, ONNX, TensorRT 
+**MLOps/Infra:** Docker, Terraform, Ansible, MLflow, Ray, Prometheus, Grafana, Triton 
+**Cloud/Databases:** AWS, MongoDB, Qdrant, PostgreSQL, Supabase, Vercel  
+**Web Development:** React, TypeScript, Next.js, Flask, Tailwind, Streamlit, REST APIs, Clerk Auth
+
+---
+
+## 🌐 Let’s Connect  
+💡 Open to collaborating on **LLMs, MLOps, and applied AI research**.  
+📬 [Email](mailto:sohith.bandari@gmail.com) | [LinkedIn](https://linkedin.com/in/sohithbandari) | [Portfolio](https://billa-man.github.io/)  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billa-Man&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billa-Man&layout=compact&theme=tokyonight)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billa-Man&show_icons=true&theme=dark)
