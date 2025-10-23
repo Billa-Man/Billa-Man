@@ -15,11 +15,20 @@
   </tr>
 </table>
 
-<div align="center">
-   <a href="mailto:sohith.bandari@gmail.com">Email</a> | 
-   <a href="https://linkedin.com/in/sohithbandari">LinkedIn</a> | 
-   <a href="https://billa-man.github.io/">Portfolio</a>
-</div>
+<br>
+
+<p align="center">
+  <a href="mailto:sohith.bandari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=202020" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/sohithbandari">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=202020" alt="LinkedIn">
+  </a>
+  <a href="https://billa-man.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white&labelColor=202020" alt="Portfolio">
+  </a>
+</p>
+
 
 ## Recent Projects
 
